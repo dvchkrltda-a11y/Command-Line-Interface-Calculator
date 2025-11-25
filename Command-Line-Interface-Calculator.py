@@ -1,1 +1,1 @@
-
+print("Kalkulator Sederhana")
