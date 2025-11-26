@@ -13,3 +13,8 @@ def pembagian(a, b):
         return "Error: Tidak bisa membagi dengan nol!"
     return a / b
 
+print("\nPilih operasi:")
+print("1. Tambah (+)")
+print("2. Kurang (-)")
+print("3. Kali (*)")
+print("4. Bagi (/)")
