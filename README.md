@@ -42,3 +42,12 @@ Hasil perhitungan langsung muncul
 
 # Dokumentasi Teknis
 ![GAMBAR FLOWCHART](<Flowchart.png>)
+
+Flowchart tersebut menggambarkan alur kerja dari program kalkulator sederhana. Program dimulai dengan menampilkan menu operasi yang tersedia, yaitu tambah, kurang, kali, dan bagi. Setelah itu pengguna diminta memasukkan pilihan operasi dengan mengetik angka 1 sampai 4. Jika pengguna memasukkan pilihan yang valid, program akan meminta input berupa angka pertama dan angka kedua sebagai data untuk dihitung. Berdasarkan pilihan yang diberikan, program kemudian menjalankan fungsi yang sesuai, seperti penjumlahan, pengurangan, perkalian, atau pembagian. Jika pilihan yang dimasukkan tidak sesuai dengan daftar menu, program langsung menampilkan pesan bahwa pilihan tidak valid. Setelah operasi dilakukan, hasil perhitungan ditampilkan kepada pengguna. Terakhir, flowchart menunjukkan bahwa proses program akan berakhir setelah hasil ditampilkan atau setelah pesan kesalahan diberikan.
+
+# Contributor
+Nama|NIM|Link Akun Github
+:---|:---|:---
+Diva Chindra Kirani Latada|250211060002|<https://github.com/dvchkrltda-a11y>
+Debora Natasya Alalinti|250211060093|<https://github.com/deboraalalinti026-cmyk>
+Deflo Nayla Tengker|250211060080|<https://github.com/deflotengker128-lgtm>
