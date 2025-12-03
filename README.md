@@ -42,4 +42,4 @@ Ketik angka kedua lalu Entar.
 Hasil perhitungan langsung muncul
 
 # Dokumentasi Teknis
-![GAMBAR FLOWCHART](<Flowchart.drawio.png>)
+![GAMBAR FLOWCHART](<Flowchart.png>)
