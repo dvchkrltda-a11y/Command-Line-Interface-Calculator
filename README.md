@@ -23,22 +23,21 @@ Masuk kedalam folder projek
 Jalankan program dengan menekan Run
 Setelah program di jalankan layar akan menampilkan menu seprti ini:
 Pilih operasi:
-1. Tambah (+)
-2. Kurang (-)
-3. Kali (*)
-4. Bagi (/)
-Masukkan pilihan operasi, ketik angka :
-1 untuk tambah
-2 untuk kurang
-3 untuk kali
-4 untuk bagi
-Tekan enter
+- Tambah (+)
+- Kurang (-)
+- Kali (*)
+- Bagi (/)
+
 Program akan meminta :
+
 Masukkan angka pertama:
+
 Ketik angka pertama, lalu tekan enter
 Program meminta lagi :
+
 Masukkan angka kedua:
 Ketik angka kedua lalu Entar.
+
 Hasil perhitungan langsung muncul
 
 # Dokumentasi Teknis
