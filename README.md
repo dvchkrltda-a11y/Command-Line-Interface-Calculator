@@ -40,3 +40,6 @@ Program meminta lagi :
 Masukkan angka kedua:
 Ketik angka kedua lalu Entar.
 Hasil perhitungan langsung muncul
+
+# Dokumentasi Teknis
+![GAMBAR FLOWCHART](<Flowchart.drawio.png>)
